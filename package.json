@@ -1,8 +1,9 @@
 {
-  "name": "vite-template",
+  "name": "template-vite",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+"homepage": "https://damiantchorzewski.github.io/template-vite/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
